@@ -1,18 +1,15 @@
 ---
 title: Hotel booking app
-date: 2019-04-06
-published: true
-tags: [mobile, product design]
-client: Google
-role: Product designer
-link: google.com
-cover_image: /uploads/images/alvaro-reyes-qWwpHwip31M-unsplash.jpg
 description: The magic of paint brush and a a little coffee
+date: 2019-04-06T00:00:00.000Z
+published: true
+tags:
+  - mobile
+  - product design
 ---
-
 # Mobile app demo
 
-They never said winning was easy. Some people can’t handle success, I can. The key is to drink coconut, fresh coconut, trust me. Give thanks to the most high. Surround yourself with angels. They don’t want us to win. Give thanks to the most high. Give thanks to the most high. Fan luv. You should never complain, complaining is a weak emotion, you got life, we breathing, we blessed. We don’t see them, we will never see them. Surround yourself with angels, positive energy, beautiful people, beautiful souls, clean heart, angel.
+dsdsaThey never said winning was easy. Some people can’t handle success, I can. The key is to drink sasascoconut, fresh coconut, trust me. Give thanks to the most high. Surround yourself with angels. They don’t want us to win. Give thanks to the most high. Give thanks to the most high. Fan luv. You should never complain, complaining is a weak emotion, you got life, we breathing, we blessed. We don’t see them, we will never see them. Surround yourself with angels, positive energy, beautiful people, beautiful souls, clean heart, angel.
 
 ![an image](/uploads/images/krisztian-tabori-IyaNci0CyRk-unsplash.jpg)
 
